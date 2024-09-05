@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi i'm RIBIN 👋</h1>
+<h1 align="left">Hi i'm Zalman👋</h1>
 
 ###
 
@@ -14,16 +14,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/muhammad-ribin/" target="_blank">
+  <a href="https://www.linkedin.com/in/salman-faris-8b28052ab/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/muhd_ribin/" target="_blank">
+  <a href="https://www.instagram.com/s_____.faris/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/muhd_ribin" target="_blank">
+  <a href="https://x.com/ZalmanFrz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://wa.me/+918943915070" target="_blank">
+  <a href="https://wa.me/+918589927625" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://t.me/Muhdribin" target="_blank">
